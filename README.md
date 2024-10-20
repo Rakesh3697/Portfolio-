@@ -43,11 +43,11 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/rakesh3697/portfolio.git
 Navigate to the project directory:
-
-bash
+ 
+   ```bash
 
 cd portfolio
-
+```
 Open index.html in your web browser to view the site.
 
 Usage
