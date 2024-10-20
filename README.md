@@ -46,7 +46,7 @@ Navigate to the project directory:
  
    ```bash
 
-cd portfolio
+   cd portfolio
 ```
 Open index.html in your web browser to view the site.
 
@@ -58,8 +58,8 @@ Customize styles in styles.css for a personalized look.
 Contact
 For inquiries or collaborations, please reach out to me at:
 
-Email: rakeshthangaraj89@gmail.com
-GitHub: github.com/rakesh3697
-LinkedIn: linkedin.com/in/rakesh3697
+-Email: rakeshthangaraj89@gmail.com
+-GitHub: github.com/rakesh3697
+-LinkedIn: linkedin.com/in/rakesh3697
 
 
